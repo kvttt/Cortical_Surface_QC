@@ -21,6 +21,12 @@ Dependencies
 - pypdf
 - tqdm
 
+To install the dependencies, run:
+
+```bash
+pip install pyvista matplotlib numpy pypdf tqdm
+```
+
 Example
 -------
 This example demonstrates how to use the cortical surface quality control. 
