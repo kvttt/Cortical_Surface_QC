@@ -16,11 +16,14 @@ And you will also have a CSV file that allows you to manually record the quality
 
 Dependencies
 ------------
+The following dependencies are required for visualization and PDF creation:
 - PyVista
 - Matplotlib
 - NumPy
 - pypdf
 - tqdm
+
+The following dependencies are required for evaluating inter- and intra-rater reliability:
 - scikit-learn
 - pandas
 
